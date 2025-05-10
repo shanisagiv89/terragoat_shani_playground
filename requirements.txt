@@ -1,0 +1,5 @@
+# requirements.txt
+django==1.2       # 🔴 CVE-2019-19844, CVE-2015-5145, etc.
+flask==0.12       # 🔴 CVE-2018-1000656
+requests==2.18.0  # 🟠 CVE-2018-18074
+pyyaml==3.10      # 🔴 CVE-2017-18342
