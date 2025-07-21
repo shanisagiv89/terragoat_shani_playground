@@ -1,5 +1,5 @@
 
-name: Cortex CLI Code Scan 13.3
+name: Cortex CLI Code Scan 13.0
 
 on:
   push:
